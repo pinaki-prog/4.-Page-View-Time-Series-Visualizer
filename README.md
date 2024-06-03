@@ -16,11 +16,11 @@ For each chart, make sure to use a copy of the data frame.
 
 The boilerplate also includes commands to save and return the image.
 
-𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
+# 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
 
 Write your code in time_series_visualizer.py. For development, you can use main.py to test your code.
 
-𝗧𝗲𝘀𝘁𝗶𝗻𝗴
+# 𝗧𝗲𝘀𝘁𝗶𝗻𝗴
 
 The unit tests for this project are in test_module.py. We imported the tests from test_module.py to main.py for your convenience.
 
